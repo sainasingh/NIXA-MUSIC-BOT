@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://t.me/TechQuard"><img src="https://te.legra.ph/file/084c206996897e2d42443.jpg" width="300"></a></p>
 <p align="center">
-## `Scan QR Code For Session`
+`Scan QR Code For Session`
 
 [![DOMINATORxBOT](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@dominator454/stringforbot?v=1)
 
