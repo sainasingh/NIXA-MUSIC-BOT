@@ -4,6 +4,7 @@
 
 <p align="center"><a href="https://t.me/TechQuard"><img src="https://te.legra.ph/file/084c206996897e2d42443.jpg" width="300"></a></p>
 <p align="center">
+[![Alena-MD](https://repl.it/badge/github/quiec/whatsasena)]
     🧪 ɢᴇᴛ sᴛʀɪɴɢ sᴇssɪᴏɴ ꜰʀᴏᴍ ʜᴇʀᴇ:
 
 [ʜɪɴᴀᴛᴀ sᴇssɪᴏɴ ʙᴏᴛ](https://t.me/hana_Session_bot)
