@@ -9,7 +9,7 @@
 [![DOMINATORxBOT](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@dominator454/stringforbot?v=1)
 
     🧪 ɢᴇᴛ sᴛʀɪɴɢ sᴇssɪᴏɴ ꜰʀᴏᴍ ʜᴇʀᴇ:
-
+*Select 2 For PYROGRAM ~ STRING SESSION 
 [ʜɪɴᴀᴛᴀ sᴇssɪᴏɴ ʙᴏᴛ](https://t.me/hana_Session_bot)
 
 
