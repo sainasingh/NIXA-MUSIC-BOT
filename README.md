@@ -14,6 +14,9 @@
 
 [ʜɪɴᴀᴛᴀ sᴇssɪᴏɴ ʙᴏᴛ](https://t.me/hana_Session_bot)
 
+KAALWARE
+<a href="https://youtu.be/_nZT5lhcL8U"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/channel/UCuYd8PWkU5QDCExj-ku8bGQ" /><br>
+
 
 ## ꜰᴇᴀᴛᴜʀᴇꜱ ᴡɪᴛʜ ᴀɪ 
 
