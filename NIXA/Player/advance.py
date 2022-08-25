@@ -14,7 +14,7 @@ from datetime import datetime
 hl = '/'
 deadlyversion = 'sᴘᴀᴍʙᴏᴛ 2.0'
 
-NIXA_PIC = "https://te.legra.ph/file/084c206996897e2d42443.jpg"
+NIXA_PIC = "https://telegra.ph/file/be61f947098d561c77c98.jpg"
   
 
 DEADLY = "    ᴍᴜsɪᴄ sᴘᴀᴍ ʙᴏᴛ\n\n"
@@ -22,6 +22,8 @@ DEADLY += f"━━━━━━━━━━━━━━━━━━━\n"
 DEADLY += f" ‣ **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.10.1`\n"
 DEADLY += f" ‣ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`\n"
 DEADLY += f" ‣ **vᴇʀsɪᴏɴ**  : `{deadlyversion}`\n"
+DEADLY += f" ‣ **𝙾𝚆𝙽𝙴𝚁**  : [𝕯𝖔𝖒𝖎𝖓𝖆𝖙𝖔𝖗.](https://t.me/N1xDOMINATOR)\n"
+DEADLY += f" ‣ **ᴄʜᴀɴɴᴇʟ**  : [Join.](https://t.me/dominator_bot_support)\n"
 DEADLY += f"━━━━━━━━━━━━━━━━━━━\n\n"   
 
                                   
