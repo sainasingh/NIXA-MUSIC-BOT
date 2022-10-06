@@ -12,7 +12,7 @@ from telethon.tl.custom import button
 from time import time
 from datetime import datetime
 hl = '/'
-deadlyversion = 'sᴘᴀᴍʙᴏᴛ 2.0'
+deadlyversion = 'ᴍᴜsɪᴄʙᴏᴛ 3.0'
 
 NIXA_PIC = "https://telegra.ph/file/be61f947098d561c77c98.jpg"
   
@@ -34,11 +34,11 @@ async def alive(event):
                                   caption=DEADLY,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/dominator_bot_official"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/dominator_bot_support")
+        Button.url("🎓 ᴄʜᴀɴɴᴇʟ", "https://t.me/dominator_bot_official"),
+        Button.url("🎌 sᴜᴘᴘᴏʀᴛ", "https://t.me/dominator_bot_support")
         ],
         [
-        Button.url("ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ", "https://youtube.com/channel/UCg4QaZEcldHdC5Y6kO1VDVg")
+        Button.url("💸 ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ", "https://youtube.com/channel/UCg4QaZEcldHdC5Y6kO1VDVg")
         ]
         ]
         )
