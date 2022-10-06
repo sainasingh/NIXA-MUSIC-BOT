@@ -3,7 +3,7 @@ from pyrogram import filters
 
 
 OWNER = [1253258650]
-sudos = [5172662762]
+sudos = [5143680336]
 
 @bot.on_message(filters.command("info"))
 def info(_, message):
