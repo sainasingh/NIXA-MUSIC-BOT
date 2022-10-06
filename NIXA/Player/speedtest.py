@@ -7,7 +7,7 @@ from pyrogram import filters, Client
 from NIXA.main import bot as app
 from config import SUDO_USERS as SUDOERS
 
-@app.on_message(filters.command("speedtest") & ~filters.edited)
+@bot.on_message(filters.command("speedtest") & ~filters.edited)
 async def run_speedtest(_, message):
     userid = message.from_user.id
     m = await message.reply_text("⇋ ᴘʀᴏᴄᴇssɪɴɢ...")
