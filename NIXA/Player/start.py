@@ -94,7 +94,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("📢 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/dominator_bot_official"),
             ],
             [
-                InlineKeyboardButton("♨️ sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://github.com/dominator454/NIXA-MUSIC-BOT"),
+                InlineKeyboardButton("♨️ sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://github.com/DOMINATOR-XD/NIXA-MUSIC-BOT"),
             ],
             [
                 InlineKeyboardButton("📄 ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="help"),
@@ -191,7 +191,7 @@ async def start(client: Client, message: Message):
                 InlineKeyboardButton("📢 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/dominator_bot_official"),
             ],
             [
-                InlineKeyboardButton("♨️ sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://github.com/dominator454/NIXA-MUSIC-BOT"),
+                InlineKeyboardButton("♨️ sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://github.com/DOMINATOR-XD/NIXA-MUSIC-BOT"),
             ],
             [
                 InlineKeyboardButton("📄 ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="help"),
