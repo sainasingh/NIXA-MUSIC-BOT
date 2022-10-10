@@ -70,7 +70,7 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 
-@BOT.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(/*)" % hl))
+@BOT.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
 async def ping(e):
         start = datetime.now()
         text = "Pong!"
