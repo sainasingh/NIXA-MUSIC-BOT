@@ -33,17 +33,17 @@
         "GROUP_SUPPORT": {
             "description": "Ur Support Group Username",
             "required": false,
-            "value": "dominator_bot_support"
+            "value": "+husMDZA0o3RlODBl"
        },
         "UPDATES_CHANNEL": {
             "description": "Ur Updates Channel",
             "required": false,
-            "value": "dominator_bot_official"
+            "value": "+husMDZA0o3RlODBl"
         },
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space).",
             "required": true,
-            "value": "1253258650"
+            "value": "1798996963"
         },
         "DURATION_LIMIT": {
             "description": "filled, don't change this !",
